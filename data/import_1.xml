@@ -1,0 +1,802 @@
+<root>
+  <item>
+    <sku>462600</sku>
+    <upc>086767210128</upc>
+    <price>2.22</price>
+    <stock_qty>1</stock_qty>
+    <name>IRISH CREAM 50ml BAILEYS IC 50ml</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.031059+00:00</created>
+    <size_value>50ML</size_value>
+    <category>317</category>
+    <cat_name>Irish Crea</cat_name>
+    <type_num>66516</type_num>
+    <type_name>Irish Crea</type_name>
+  </item>
+  <item>
+    <sku>462601</sku>
+    <upc>None</upc>
+    <price>19.99</price>
+    <stock_qty>9</stock_qty>
+    <name>RANGPUR GIN 750ml TANQUERAY RANGPUR</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.405853+00:00</created>
+    <size_value>750ML</size_value>
+    <category>312</category>
+    <cat_name>Gin</cat_name>
+    <type_num>66517</type_num>
+    <type_name>Gin</type_name>
+  </item>
+  <item>
+    <sku>462602</sku>
+    <upc>8807616863</upc>
+    <price/>
+    <stock_qty>10</stock_qty>
+    <name>RANGPUR GIN 375ml TANQUERAY GiN 375 ml</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:08.403608+00:00</created>
+    <size_value>375ML</size_value>
+    <category>312</category>
+    <cat_name>Gin</cat_name>
+    <type_num>66517</type_num>
+    <type_name>Gin</type_name>
+  </item>
+  <item>
+    <sku>462603</sku>
+    <upc>087692831341</upc>
+    <price>11.99</price>
+    <stock_qty>9</stock_qty>
+    <name>HARD ICE TEA 12PK BOTTLES 12oz TWISTED TEA 12PKB</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.477527+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>320</category>
+    <cat_name>Malt Bever</cat_name>
+    <type_num>66518</type_num>
+    <type_name>Malt Bever</type_name>
+  </item>
+  <item>
+    <sku>462604</sku>
+    <upc>73245895017</upc>
+    <price>15.33</price>
+    <stock_qty>8</stock_qty>
+    <name>CHARDONNAY CARNEROS 750ml SAINTSBURY CHARDONNA</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.201416+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462606</sku>
+    <upc>8676752022</upc>
+    <price>2.21</price>
+    <stock_qty>19</stock_qty>
+    <name>PEPPERMINT SCHNAPPS 50ml R. MINZE PEPPERMINT</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.145646+00:00</created>
+    <size_value>50ML</size_value>
+    <category>339</category>
+    <cat_name>Schnapps</cat_name>
+    <type_num>66520</type_num>
+    <type_name>Schnapps</type_name>
+  </item>
+  <item>
+    <sku>462607</sku>
+    <upc>086767500120</upc>
+    <price>2.29</price>
+    <stock_qty>18</stock_qty>
+    <name>CINNAMON SCHNAPPS 50ml GOLDSCHLAGER 50ML</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.665375+00:00</created>
+    <size_value>50ML</size_value>
+    <category>339</category>
+    <cat_name>Schnapps</cat_name>
+    <type_num>66520</type_num>
+    <type_name>Schnapps</type_name>
+  </item>
+  <item>
+    <sku>462608</sku>
+    <upc>8811093106</upc>
+    <price>2.59</price>
+    <stock_qty>17</stock_qty>
+    <name>ORANGE LIQUEUR 50ml GRANDMARNIER ORANG</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.678505+00:00</created>
+    <size_value>50ML</size_value>
+    <category>310</category>
+    <cat_name>Liqueurs</cat_name>
+    <type_num>66521</type_num>
+    <type_name>Liqueurs</type_name>
+  </item>
+  <item>
+    <sku>462609</sku>
+    <upc>8724188106</upc>
+    <price/>
+    <stock_qty>16</stock_qty>
+    <name>PINOT GRIGIO 750ml M. CORONA PINOT GRIG</name>
+    <active>1</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.906096+00:00</created>
+    <size_value>750ML</size_value>
+    <category>313</category>
+    <cat_name>Italian</cat_name>
+    <type_num>95159</type_num>
+    <type_name>Italian</type_name>
+  </item>
+  <item>
+    <sku>462610</sku>
+    <upc>811538010832</upc>
+    <price>16.33</price>
+    <stock_qty>1</stock_qty>
+    <name>GOLD TEQUILA 750ml JOSE CUERVO GOLD 750</name>
+    <active>1</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.803475+00:00</created>
+    <size_value>750ML</size_value>
+    <category>295</category>
+    <cat_name>Tequila</cat_name>
+    <type_num>66523</type_num>
+    <type_name>Tequila</type_name>
+  </item>
+  <item>
+    <sku>462611</sku>
+    <upc>811538010887</upc>
+    <price>9.85</price>
+    <stock_qty>13</stock_qty>
+    <name>GOLD TEQUILA 375ml JOSE CUERVO GOLD 375</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.802646+00:00</created>
+    <size_value>375ML</size_value>
+    <category>295</category>
+    <cat_name>Tequila</cat_name>
+    <type_num>66523</type_num>
+    <type_name>Tequila</type_name>
+  </item>
+  <item>
+    <sku>462612</sku>
+    <upc>617768113752</upc>
+    <price>4.87</price>
+    <stock_qty>1</stock_qty>
+    <name>VODKA 80 PROOF 375ml SVEDKA VODKA 375ML</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.398387+00:00</created>
+    <size_value>375ML</size_value>
+    <category>301</category>
+    <cat_name>Vodka</cat_name>
+    <type_num>66524</type_num>
+    <type_name>Vodka</type_name>
+  </item>
+  <item>
+    <sku>462613</sku>
+    <upc>722358134052</upc>
+    <price>17.99</price>
+    <stock_qty>15</stock_qty>
+    <name>BRUT CREMANT ROSE 750ml LUCIEN ALBRECHT</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.901519+00:00</created>
+    <size_value>750ML</size_value>
+    <category>305</category>
+    <cat_name>Sparkling</cat_name>
+    <type_num>66525</type_num>
+    <type_name>Sparkling</type_name>
+  </item>
+  <item>
+    <sku>462614</sku>
+    <upc>8954049339</upc>
+    <price/>
+    <stock_qty>9</stock_qty>
+    <name>FRENCH VANILLA 750ml KAHLUA FRENCH VANILL</name>
+    <active>1</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.816026+00:00</created>
+    <size_value>750ML</size_value>
+    <category>310</category>
+    <cat_name>Liqueurs</cat_name>
+    <type_num>66521</type_num>
+    <type_name>Liqueurs</type_name>
+  </item>
+  <item>
+    <sku>462615</sku>
+    <upc>835229000209</upc>
+    <price>11.99</price>
+    <stock_qty>11</stock_qty>
+    <name>VODKA 80 PROOF 375ml ABSOLUT VODKA 375ml</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:06.924290+00:00</created>
+    <size_value>375ML</size_value>
+    <category>301</category>
+    <cat_name>Vodka</cat_name>
+    <type_num>66524</type_num>
+    <type_name>Vodka</type_name>
+  </item>
+  <item>
+    <sku>462616</sku>
+    <upc>083783375121</upc>
+    <price>14.49</price>
+    <stock_qty>3</stock_qty>
+    <name>PALE ALE 12PK BTLS 12oz SIERRA NV 12PKB</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.249830+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462617</sku>
+    <upc>8158413040</upc>
+    <price>8.03</price>
+    <stock_qty>6</stock_qty>
+    <name>SAUVIGNON BLANC 750ml K JACKSON SAUV BLANC</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.813463+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462618</sku>
+    <upc>8158413152</upc>
+    <price>13.49</price>
+    <stock_qty>19</stock_qty>
+    <name>MERLOT 750ml K JACKSON MERLOT</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.813052+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462619</sku>
+    <upc>089121068823</upc>
+    <price>9.33</price>
+    <stock_qty>17</stock_qty>
+    <name>CHARDONNAY RIVERSTONE 750ml J LOHR CHARD 750ML</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.758440+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462621</sku>
+    <upc>086785212111</upc>
+    <price>7.50</price>
+    <stock_qty>2</stock_qty>
+    <name>PROSECCO BRUT 750ml LUNETTA BY CAVIT</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.903999+00:00</created>
+    <size_value>750ML</size_value>
+    <category>305</category>
+    <cat_name>Sparkling</cat_name>
+    <type_num>66525</type_num>
+    <type_name>Sparkling</type_name>
+  </item>
+  <item>
+    <sku>462622</sku>
+    <upc>75062565101</upc>
+    <price/>
+    <stock_qty>7</stock_qty>
+    <name>CABERNET SAUVIGNON 750ml ROOT 1</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:08.189705+00:00</created>
+    <size_value>750ML</size_value>
+    <category>330</category>
+    <cat_name>Chile</cat_name>
+    <type_num>66527</type_num>
+    <type_name>Chile</type_name>
+  </item>
+  <item>
+    <sku>462623</sku>
+    <upc>72173300014</upc>
+    <price>9.99</price>
+    <stock_qty>19</stock_qty>
+    <name>CITRONGE BRANDY 375ml PATRON CITRONGE</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:08.098368+00:00</created>
+    <size_value>375ML</size_value>
+    <category>333</category>
+    <cat_name>Brandy</cat_name>
+    <type_num>66528</type_num>
+    <type_name>Brandy</type_name>
+  </item>
+  <item>
+    <sku>462624</sku>
+    <upc>721059047500</upc>
+    <price>24.49</price>
+    <stock_qty>3</stock_qty>
+    <name>BITTER 750ml CAMPARI</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.239603+00:00</created>
+    <size_value>750ML</size_value>
+    <category>310</category>
+    <cat_name>Liqueurs</cat_name>
+    <type_num>66521</type_num>
+    <type_name>Liqueurs</type_name>
+  </item>
+  <item>
+    <sku>462625</sku>
+    <upc>088004143541</upc>
+    <price>15.45</price>
+    <stock_qty>6</stock_qty>
+    <name>BITTER #1 750ml PIMMS</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.128427+00:00</created>
+    <size_value>750ML</size_value>
+    <category>310</category>
+    <cat_name>Liqueurs</cat_name>
+    <type_num>66521</type_num>
+    <type_name>Liqueurs</type_name>
+  </item>
+  <item>
+    <sku>462626</sku>
+    <upc>080686001102</upc>
+    <price>29.58</price>
+    <stock_qty>2</stock_qty>
+    <name>BOURBON 1.75L JIM BEAM 1.75L</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.787034+00:00</created>
+    <size_value>1.75L</size_value>
+    <category>309</category>
+    <cat_name>Bourbon</cat_name>
+    <type_num>66529</type_num>
+    <type_name>Bourbon</type_name>
+  </item>
+  <item>
+    <sku>462629</sku>
+    <upc>8043280253</upc>
+    <price>0.75</price>
+    <stock_qty>16</stock_qty>
+    <name>STRAWBERRY DAIQUIRI 11.2o SEAGRAMESCAPES DAIQU</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.231532+00:00</created>
+    <size_value>11.2O</size_value>
+    <category>315</category>
+    <cat_name>Ciders</cat_name>
+    <type_num>66530</type_num>
+    <type_name>Ciders</type_name>
+  </item>
+  <item>
+    <sku>462631</sku>
+    <upc>080480230005</upc>
+    <price>31.74</price>
+    <stock_qty>1</stock_qty>
+    <name>WHITE LABEL SCOTCH 1.75L DEWARS SCOTCH 1.75L</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.504067+00:00</created>
+    <size_value>1.75L</size_value>
+    <category>300</category>
+    <cat_name>Scotch</cat_name>
+    <type_num>66531</type_num>
+    <type_name>Scotch</type_name>
+  </item>
+  <item>
+    <sku>462632</sku>
+    <upc>8366485280</upc>
+    <price>6.75</price>
+    <stock_qty>6</stock_qty>
+    <name>DRY SACK SHERRY MED. 750ml WILLHUMBERT DRY SACK</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.531175+00:00</created>
+    <size_value>750ML</size_value>
+    <category>335</category>
+    <cat_name>Ports</cat_name>
+    <type_num>66532</type_num>
+    <type_name>Ports</type_name>
+  </item>
+  <item>
+    <sku>462633</sku>
+    <upc>835229001305</upc>
+    <price>15.90</price>
+    <stock_qty>4</stock_qty>
+    <name>VODKA CITRON 750ml ABSOLUT CITRON 750ML</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:06.920872+00:00</created>
+    <size_value>750ML</size_value>
+    <category>301</category>
+    <cat_name>Vodka</cat_name>
+    <type_num>66524</type_num>
+    <type_name>Vodka</type_name>
+  </item>
+  <item>
+    <sku>462634</sku>
+    <upc>835229010185</upc>
+    <price>15.90</price>
+    <stock_qty>16</stock_qty>
+    <name>VODKA 80 PROOF 750ml ABSOLUT VODKA 750ML</name>
+    <active>1</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:06.925154+00:00</created>
+    <size_value>750ML</size_value>
+    <category>301</category>
+    <cat_name>Vodka</cat_name>
+    <type_num>66524</type_num>
+    <type_name>Vodka</type_name>
+  </item>
+  <item>
+    <sku>462635</sku>
+    <upc>835229000605</upc>
+    <price>23.90</price>
+    <stock_qty>17</stock_qty>
+    <name>VODKA 80 PROOF 1.75L ABSOLUT VODKA 1.75L</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:06.923426+00:00</created>
+    <size_value>1.75L</size_value>
+    <category>301</category>
+    <cat_name>Vodka</cat_name>
+    <type_num>66524</type_num>
+    <type_name>Vodka</type_name>
+  </item>
+  <item>
+    <sku>462636</sku>
+    <upc>086003873889</upc>
+    <price>11.08</price>
+    <stock_qty>9</stock_qty>
+    <name>CHARDONNAY 1.5L WOODBRIDGE RM CHARD</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.543349+00:00</created>
+    <size_value>1.5L</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462637</sku>
+    <upc>082184090527</upc>
+    <price>7.95</price>
+    <stock_qty>8</stock_qty>
+    <name>BLACK LABEL WSKY 200ml JACK DANIELS BLK 200</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.771580+00:00</created>
+    <size_value>200ML</size_value>
+    <category>318</category>
+    <cat_name>Whiskey</cat_name>
+    <type_num>66869</type_num>
+    <type_name>Whiskey</type_name>
+  </item>
+  <item>
+    <sku>462638</sku>
+    <upc>018200139864</upc>
+    <price>6.11</price>
+    <stock_qty>11</stock_qty>
+    <name>6 PK BOTTLE 12oz SHOCKTOP 6PKB</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.248598+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462639</sku>
+    <upc>01886722</upc>
+    <price>1.02</price>
+    <stock_qty>4</stock_qty>
+    <name>SINGLE BOTTLE 12oz SHOCKTOP SINGLE</name>
+    <active>1</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:08.249009+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462640</sku>
+    <upc>087754000432</upc>
+    <price>6.66</price>
+    <stock_qty>7</stock_qty>
+    <name>PINOT GRIGIO 750ml HOGUE PINOT GRIGIO</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.742046+00:00</created>
+    <size_value>750ML</size_value>
+    <category>296</category>
+    <cat_name>Washington</cat_name>
+    <type_num>66535</type_num>
+    <type_name>Washington</type_name>
+  </item>
+  <item>
+    <sku>462641</sku>
+    <upc>8854401916</upc>
+    <price>4.99</price>
+    <stock_qty>13</stock_qty>
+    <name>WHISKEY 70 PROOF 200ml SOUTHERN COMFORT 200</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.298143+00:00</created>
+    <size_value>200ML</size_value>
+    <category>318</category>
+    <cat_name>Whiskey</cat_name>
+    <type_num>66869</type_num>
+    <type_name>Whiskey</type_name>
+  </item>
+  <item>
+    <sku>462643</sku>
+    <upc>8105408447</upc>
+    <price/>
+    <stock_qty>2</stock_qty>
+    <name>MERLOT 750ml FOREST GLEN</name>
+    <active>1</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.619619+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462644</sku>
+    <upc>080720000627</upc>
+    <price>6.74</price>
+    <stock_qty>12</stock_qty>
+    <name>CHARDONNAY 1.5L GLEN ELLEN CHARD</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.654410+00:00</created>
+    <size_value>1.5L</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462645</sku>
+    <upc>080660956954</upc>
+    <price>12.25</price>
+    <stock_qty>18</stock_qty>
+    <name>EXTRA 12 PK CANS 12oz CORONA EXTRA 12PKC</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.415895+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>311</category>
+    <cat_name>Import Bee</cat_name>
+    <type_num>66536</type_num>
+    <type_name>Import Bee</type_name>
+  </item>
+  <item>
+    <sku>462646</sku>
+    <upc>8066095685</upc>
+    <price>6.12</price>
+    <stock_qty>11</stock_qty>
+    <name>EXTRA 6PK CANS 12oz CORONA EXTRA 6PKC</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.418128+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>311</category>
+    <cat_name>Import Bee</cat_name>
+    <type_num>66536</type_num>
+    <type_name>Import Bee</type_name>
+  </item>
+  <item>
+    <sku>462647</sku>
+    <upc>08066145</upc>
+    <price>1.02</price>
+    <stock_qty>19</stock_qty>
+    <name>CAN SINGLE 12oz CORONA EXTRA CAN SGL</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.420348+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>311</category>
+    <cat_name>Import Bee</cat_name>
+    <type_num>66536</type_num>
+    <type_name>Import Bee</type_name>
+  </item>
+  <item>
+    <sku>462648</sku>
+    <upc>018200129827</upc>
+    <price>6.85</price>
+    <stock_qty>7</stock_qty>
+    <name>6PK BOTTLES 12oz LAND SHARK 6PK BTLS</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.858666+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462650</sku>
+    <upc>018200129988</upc>
+    <price>9.99</price>
+    <stock_qty>9</stock_qty>
+    <name>LAGER 12PK BOTTLES 12oz LAND SHARK 12PKB</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.858206+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462651</sku>
+    <upc>081584013174</upc>
+    <price>13.53</price>
+    <stock_qty>1</stock_qty>
+    <name>CABERNET SAUVIGNON 750ml K JACKSON CABERNET</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.812221+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462653</sku>
+    <upc>080480301026</upc>
+    <price>22.58</price>
+    <stock_qty>7</stock_qty>
+    <name>SAPPHIRE GIN 750ml BOMBAY SAPPHIRE 750M</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.160933+00:00</created>
+    <size_value>750ML</size_value>
+    <category>312</category>
+    <cat_name>Gin</cat_name>
+    <type_num>66517</type_num>
+    <type_name>Gin</type_name>
+  </item>
+  <item>
+    <sku>462654</sku>
+    <upc>8068635370</upc>
+    <price>3.49</price>
+    <stock_qty>14</stock_qty>
+    <name>PEPPERMINT SCHNAPPS 200ml DEKUYPER PEPPERMIN</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.499474+00:00</created>
+    <size_value>200ML</size_value>
+    <category>339</category>
+    <cat_name>Schnapps</cat_name>
+    <type_num>66520</type_num>
+    <type_name>Schnapps</type_name>
+  </item>
+  <item>
+    <sku>462655</sku>
+    <upc>011034410055</upc>
+    <price>7.59</price>
+    <stock_qty>14</stock_qty>
+    <name>ROSSO VERMOUTH 750ml MARTINI&amp;ROSSI SV 750</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.939123+00:00</created>
+    <size_value>750ML</size_value>
+    <category>327</category>
+    <cat_name>Vermouth</cat_name>
+    <type_num>66537</type_num>
+    <type_name>Vermouth</type_name>
+  </item>
+  <item>
+    <sku>462658</sku>
+    <upc>018200150302</upc>
+    <price>14.70</price>
+    <stock_qty>1</stock_qty>
+    <name>LIGHT 30PK 12OZ CANS  NATURAL LIGHT 30PK</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:08.029675+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462663</sku>
+    <upc>022100001701</upc>
+    <price>7.49</price>
+    <stock_qty>15</stock_qty>
+    <name>BLUE 12 PK CANS 12oz PABST BLUE 12PK CAN</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.086555+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+</root>

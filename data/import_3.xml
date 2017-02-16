@@ -1,0 +1,802 @@
+<root>
+  <item>
+    <sku>462664</sku>
+    <upc>071439348063</upc>
+    <price>5.87</price>
+    <stock_qty>17</stock_qty>
+    <name>REGULAR 6PK BOTTLES 12oz ROLLING ROCK 6PKB</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.185122+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462665</sku>
+    <upc>071439000336</upc>
+    <price>0.98</price>
+    <stock_qty>4</stock_qty>
+    <name>SINGLE BOTTLE 12oz ROLLING ROCK SINGLE</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.186369+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462666</sku>
+    <upc>071439457123</upc>
+    <price>9.99</price>
+    <stock_qty>1</stock_qty>
+    <name>REGULAR 12 PK BOTTLES 12oz ROLLING ROCK 12PKB</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:08.183856+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462667</sku>
+    <upc>1820014990</upc>
+    <price>9.99</price>
+    <stock_qty>3</stock_qty>
+    <name>LIGHT LIME 12 PK BOT 12oz BUD LIGHT LIME 12PKB</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.197670+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462668</sku>
+    <upc>018200149917</upc>
+    <price>5.86</price>
+    <stock_qty>14</stock_qty>
+    <name>LIGHT LIME 6 PK BOT 12oz BUD LIGHT LIME 6PKB</name>
+    <active>1</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.198684+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462669</sku>
+    <upc>087692100140</upc>
+    <price>12.99</price>
+    <stock_qty>3</stock_qty>
+    <name>LAGER 12 PK BOTTLES 12oz SAM ADAMS LAG 12PKB</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:08.206795+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462670</sku>
+    <upc>072783001000</upc>
+    <price>8.50</price>
+    <stock_qty>14</stock_qty>
+    <name>STEAM ALE 12OZ 6PK BTLS ANCHOR STEAM 6PK</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:06.984831+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462671</sku>
+    <upc>07278358</upc>
+    <price>1.42</price>
+    <stock_qty>10</stock_qty>
+    <name>STEAM ALE 12OZ SINGLE  ANCHOR STEAM SINGLE</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:06.985296+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462673</sku>
+    <upc>072783003004</upc>
+    <price>8.50</price>
+    <stock_qty>10</stock_qty>
+    <name>LIBERTY ALE 6PK 12OZ BTLS  ANCHOR LIBERTY 6PK</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:06.980560+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462674</sku>
+    <upc>07278372</upc>
+    <price>1.79</price>
+    <stock_qty>8</stock_qty>
+    <name>LIBERTY ALE SINGLE 12OZ BTLS  ANCHOR LIBERTY SINGL</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:06.981039+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462676</sku>
+    <upc>089819060085</upc>
+    <price>5.24</price>
+    <stock_qty>14</stock_qty>
+    <name>CHARDONNAY 750ml MERIDIAN CHARD 750ml</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.953246+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462677</sku>
+    <upc>087692100126</upc>
+    <price>7.50</price>
+    <stock_qty>13</stock_qty>
+    <name>LAGER 6PK BOTTLES 12oz SAM ADAMS LAG 6PKB</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.207637+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462678</sku>
+    <upc>08769251</upc>
+    <price>1.25</price>
+    <stock_qty>6</stock_qty>
+    <name>LAGER SINGLE BOTTLE 12oz SAM ADAMS LAGER SGL</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.208898+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462679</sku>
+    <upc>087692300304</upc>
+    <price>7.50</price>
+    <stock_qty>8</stock_qty>
+    <name>ALE 6PK BOTTLES 12oz SAM ADAMS ALE 6PKB</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.203478+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462680</sku>
+    <upc>08769282</upc>
+    <price>1.25</price>
+    <stock_qty>11</stock_qty>
+    <name>ALE SINGLE BOTTLE 12oz SAM ADAMS ALE SGL</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.203889+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462681</sku>
+    <upc>086003813854</upc>
+    <price>9.54</price>
+    <stock_qty>9</stock_qty>
+    <name>CABERNET SAUVIGNON 1.5L WOODBRIDGE RM CAB</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:08.542934+00:00</created>
+    <size_value>1.5L</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462682</sku>
+    <upc>080686122128</upc>
+    <price>16.28</price>
+    <stock_qty>8</stock_qty>
+    <name>GIN 80 PROOF 1.75L GILBEY'S GIN 1.75L</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.651077+00:00</created>
+    <size_value>1.75L</size_value>
+    <category>312</category>
+    <cat_name>Gin</cat_name>
+    <type_num>66517</type_num>
+    <type_name>Gin</type_name>
+  </item>
+  <item>
+    <sku>462683</sku>
+    <upc>080480300029</upc>
+    <price>18.41</price>
+    <stock_qty>2</stock_qty>
+    <name>GIN 86 PROOF 750ml BOMBAY GIN 86 PROOF</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.159907+00:00</created>
+    <size_value>750ML</size_value>
+    <category>312</category>
+    <cat_name>Gin</cat_name>
+    <type_num>66517</type_num>
+    <type_name>Gin</type_name>
+  </item>
+  <item>
+    <sku>462684</sku>
+    <upc>050037014501</upc>
+    <price>24.99</price>
+    <stock_qty>7</stock_qty>
+    <name>ITALIAN LIQUEUR 750ml DISARONNO ITALIAN 75</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.512533+00:00</created>
+    <size_value>750ML</size_value>
+    <category>310</category>
+    <cat_name>Liqueurs</cat_name>
+    <type_num>66521</type_num>
+    <type_name>Liqueurs</type_name>
+  </item>
+  <item>
+    <sku>462685</sku>
+    <upc>8048054540</upc>
+    <price>31.99</price>
+    <stock_qty>10</stock_qty>
+    <name>BRANDY LIQUEUR 750ml B &amp; B LIQUEUR 750ml</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.013826+00:00</created>
+    <size_value>750ML</size_value>
+    <category>310</category>
+    <cat_name>Liqueurs</cat_name>
+    <type_num>66521</type_num>
+    <type_name>Liqueurs</type_name>
+  </item>
+  <item>
+    <sku>462686</sku>
+    <upc>4257205715</upc>
+    <price>1.00</price>
+    <stock_qty>19</stock_qty>
+    <name>NON-ALC 12OZ BTLS 12oz CLAUSTHALERNON-ALC 1</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.370749+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>321</category>
+    <cat_name>Non-Alcoho</cat_name>
+    <type_num>66539</type_num>
+    <type_name>Non-Alcoho</type_name>
+  </item>
+  <item>
+    <sku>462687</sku>
+    <upc>4257205000</upc>
+    <price>1.00</price>
+    <stock_qty>11</stock_qty>
+    <name>NON-ALC 12OZ BTLS 12oz CLAUSTHALER NON-ALC</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.370019+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>321</category>
+    <cat_name>Non-Alcoho</cat_name>
+    <type_num>66539</type_num>
+    <type_name>Non-Alcoho</type_name>
+  </item>
+  <item>
+    <sku>462688</sku>
+    <upc>088586001895</upc>
+    <price>7.58</price>
+    <stock_qty>18</stock_qty>
+    <name>CABERNET SAUVIGNON 750ml 14 HANDS CABERNET</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:06.895457+00:00</created>
+    <size_value>750ML</size_value>
+    <category>296</category>
+    <cat_name>Washington</cat_name>
+    <type_num>66535</type_num>
+    <type_name>Washington</type_name>
+  </item>
+  <item>
+    <sku>462689</sku>
+    <upc>087356510124</upc>
+    <price>6.83</price>
+    <stock_qty>2</stock_qty>
+    <name>CHARDONNAY 750ml CLOS DU BOIS 750ML</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.379655+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462690</sku>
+    <upc>8068696302</upc>
+    <price/>
+    <stock_qty>18</stock_qty>
+    <name>COGNAC EXCLUSIF 750ml COURVOISIER  VS 80</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.441048+00:00</created>
+    <size_value>750ML</size_value>
+    <category>336</category>
+    <cat_name>Cognac</cat_name>
+    <type_num>66540</type_num>
+    <type_name>Cognac</type_name>
+  </item>
+  <item>
+    <sku>462692</sku>
+    <upc>011034420054</upc>
+    <price>7.59</price>
+    <stock_qty>5</stock_qty>
+    <name>DRY VERMOUTH 750ml MARTINI&amp;ROSSI DV 750</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.937874+00:00</created>
+    <size_value>750ML</size_value>
+    <category>327</category>
+    <cat_name>Vermouth</cat_name>
+    <type_num>66537</type_num>
+    <type_name>Vermouth</type_name>
+  </item>
+  <item>
+    <sku>462693</sku>
+    <upc>1820014998</upc>
+    <price/>
+    <stock_qty>10</stock_qty>
+    <name>AMERICAN ALE 12 OZ  BUDWEISER AMER.ALE</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.211345+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462695</sku>
+    <upc>018200008917</upc>
+    <price>10.39</price>
+    <stock_qty>16</stock_qty>
+    <name>LAGER 12 PK BOTTLES 12oz MICHELOB LAGER 12PKB</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.956583+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462696</sku>
+    <upc>1820000884</upc>
+    <price>10.50</price>
+    <stock_qty>4</stock_qty>
+    <name>LIGHT 12 PK BOTTLES 12oz MICHELOB LITE 12PKB</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.959480+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462697</sku>
+    <upc>1820000956</upc>
+    <price>5.25</price>
+    <stock_qty>19</stock_qty>
+    <name>LIGHT 12 OZ BOTTLE 12oz MICHELOB LIGHT 6PKB</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.958658+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462698</sku>
+    <upc>1804728</upc>
+    <price>0.86</price>
+    <stock_qty>19</stock_qty>
+    <name>LIGHT 12 OZ SINGLE BOTTLE  MICHELOB LIGHT SINGL</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.959069+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462699</sku>
+    <upc>018200610479</upc>
+    <price>6.75</price>
+    <stock_qty>11</stock_qty>
+    <name>REGULAR 12 PK CANS 12oz BUSCH 12PK</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.225365+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462700</sku>
+    <upc>018200610301</upc>
+    <price>15.70</price>
+    <stock_qty>18</stock_qty>
+    <name>REGULAR 30 PK CANS 12oz BUSCH 30 PK</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.225890+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462701</sku>
+    <upc>01805125</upc>
+    <price>3.98</price>
+    <stock_qty>14</stock_qty>
+    <name>REGULAR  6PK CANS 12oz BUSCH 6PKC</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.226400+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462703</sku>
+    <upc>018200008016</upc>
+    <price>6.75</price>
+    <stock_qty>14</stock_qty>
+    <name>LIGHT 12 PK CANS 12oz BUSCH LIGHT 12PKC</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.226922+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462704</sku>
+    <upc>018200860317</upc>
+    <price>16.70</price>
+    <stock_qty>5</stock_qty>
+    <name>LIGHT 30 PK CANS 12oz BUSCH LIGHT 30PK</name>
+    <active>1</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.228481+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462705</sku>
+    <upc>01818828</upc>
+    <price>3.98</price>
+    <stock_qty>6</stock_qty>
+    <name>6PK CANS 12oz BUSCH LITE 6PKC</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.229006+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462707</sku>
+    <upc>1820000647</upc>
+    <price>9.60</price>
+    <stock_qty>8</stock_qty>
+    <name>ICE 12 PK CANS 12oz BUDWEISER ICE 12PKC</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.212369+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462711</sku>
+    <upc>018200159817</upc>
+    <price>11.74</price>
+    <stock_qty>13</stock_qty>
+    <name>12PK BOTTLE 12oz SHOCKTOP 12PKB</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.247750+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>306</category>
+    <cat_name>Craft Beer</cat_name>
+    <type_num>66526</type_num>
+    <type_name>Craft Beer</type_name>
+  </item>
+  <item>
+    <sku>462712</sku>
+    <upc>087512913257</upc>
+    <price>9.00</price>
+    <stock_qty>5</stock_qty>
+    <name>CHARDONNAY SONOMA 750ml RODNEY STRONG CHARD</name>
+    <active>1</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:08.178869+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462713</sku>
+    <upc>089540122748</upc>
+    <price>1.89</price>
+    <stock_qty>8</stock_qty>
+    <name>COFFEE LIQUEUR 50ml KAHLUA COFFEE 50ml</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.814706+00:00</created>
+    <size_value>50ML</size_value>
+    <category>310</category>
+    <cat_name>Liqueurs</cat_name>
+    <type_num>66521</type_num>
+    <type_name>Liqueurs</type_name>
+  </item>
+  <item>
+    <sku>462714</sku>
+    <upc>8130859207</upc>
+    <price>6.81</price>
+    <stock_qty>15</stock_qty>
+    <name>CHARDONNAY 750ml CUPCAKE CHARDONNAY</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.462528+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462715</sku>
+    <upc>8130800043</upc>
+    <price>7.07</price>
+    <stock_qty>19</stock_qty>
+    <name>SAUVIGNON BLANC 750ml CUPCAKE SAUVIGNON BL</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.464013+00:00</created>
+    <size_value>750ML</size_value>
+    <category>307</category>
+    <cat_name>New Zealan</cat_name>
+    <type_num>66542</type_num>
+    <type_name>New Zealan</type_name>
+  </item>
+  <item>
+    <sku>462716</sku>
+    <upc>018200149900</upc>
+    <price>8.52</price>
+    <stock_qty>6</stock_qty>
+    <name>LIGHT LIME 12 PK CANS 12oz BUD LITE LIME 12PKC</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.204773+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462717</sku>
+    <upc>1822326</upc>
+    <price>4.26</price>
+    <stock_qty>2</stock_qty>
+    <name>LIGHT LIME 6PK CANS 12oz BUD LIGHT LIME 6PKC</name>
+    <active>3</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.199187+00:00</created>
+    <size_value>12OZ</size_value>
+    <category>319</category>
+    <cat_name>Dom Beer</cat_name>
+    <type_num>66609</type_num>
+    <type_name>Dom Beer</type_name>
+  </item>
+  <item>
+    <sku>462719</sku>
+    <upc>083089660402</upc>
+    <price>5.78</price>
+    <stock_qty>18</stock_qty>
+    <name>LIQUEUR 200ML JAGERMEISTER 200ML</name>
+    <active>3</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.779503+00:00</created>
+    <size_value>200ML</size_value>
+    <category>339</category>
+    <cat_name>Schnapps</cat_name>
+    <type_num>66520</type_num>
+    <type_name>Schnapps</type_name>
+  </item>
+  <item>
+    <sku>462720</sku>
+    <upc>083089660105</upc>
+    <price>1.57</price>
+    <stock_qty>8</stock_qty>
+    <name>LIQUEUR 50ml JAGERMEISTER LIQ 50m</name>
+    <active>2</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.780341+00:00</created>
+    <size_value>50ML</size_value>
+    <category>339</category>
+    <cat_name>Schnapps</cat_name>
+    <type_num>66520</type_num>
+    <type_name>Schnapps</type_name>
+  </item>
+  <item>
+    <sku>462721</sku>
+    <upc>087512912359</upc>
+    <price>14.00</price>
+    <stock_qty>9</stock_qty>
+    <name>CABERNET SAUVIGNON SO 750ml RODNEY STRONG CAB</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:08.178456+00:00</created>
+    <size_value>750ML</size_value>
+    <category>299</category>
+    <cat_name>California</cat_name>
+    <type_num>66515</type_num>
+    <type_name>California</type_name>
+  </item>
+  <item>
+    <sku>462722</sku>
+    <upc>089540122731</upc>
+    <price>6.49</price>
+    <stock_qty>4</stock_qty>
+    <name>COFFEE LIQUEUR 200ml KAHLUA COFFEE 200ml</name>
+    <active>1</active>
+    <available>True</available>
+    <vintage/>
+    <created>2016-10-10 21:44:07.813875+00:00</created>
+    <size_value>200ML</size_value>
+    <category>310</category>
+    <cat_name>Liqueurs</cat_name>
+    <type_num>66521</type_num>
+    <type_name>Liqueurs</type_name>
+  </item>
+  <item>
+    <sku>462723</sku>
+    <upc>8603610019</upc>
+    <price>0.83</price>
+    <stock_qty>18</stock_qty>
+    <name>BRANDY VS 50ml CHRISTIAN BRO. 50ml</name>
+    <active>2</active>
+    <available/>
+    <vintage/>
+    <created>2016-10-10 21:44:07.348319+00:00</created>
+    <size_value>50ML</size_value>
+    <category>332</category>
+    <cat_name>Brandy Dom</cat_name>
+    <type_num>66543</type_num>
+    <type_name>Brandy Dom</type_name>
+  </item>
+</root>

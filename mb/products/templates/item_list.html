@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
+{% load static %}
+<!DOCTYPE html>
+<html lang="en" ng-app="angularProject">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title></title>
+
+  <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}"/>
+  <link rel="stylesheet" href="{% static 'css/bootstrap-theme.min.css' %}"/>
+  <link rel="stylesheet" href="{% static 'css/bootstrap-responsive.min.css' %}"/>
+  <link rel="stylesheet" href="{% static 'calendarview/css/calendar.css' %}"/>
+  <style type="text/css"></style>
+</head>
+
+<body>
+<form action="{{ action }}" method="GET">
+  <ul>
+    {{ form.as_ul }}
+  </ul>
+  <input type="submit" value="Search" />
+</form>
+  {% for item in items %}
+    {{ item.sku }}
+  {% endfor %}
+</body>
+
+<script src="{% static 'js/bootstrap.min.js' %}"></script>
+</html>
