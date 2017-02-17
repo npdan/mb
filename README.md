@@ -1,7 +1,7 @@
 # mb
 Sample project.
 
-Buitl using python 2.7 and Django 1.10.
+Built using python 2.7 and Django 1.10.
 Has a python dependency data-importer (pip install data-importer)
 
 1. Import an XML file into a sqlite database using the command line, preserving updated data and avoiding duplicate SKUs.
