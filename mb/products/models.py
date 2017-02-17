@@ -21,11 +21,11 @@ ACTIVE_CHOICES = (
 class Item(models.Model):
     sku = models.PositiveIntegerField(primary_key=True)
     upc = models.CharField(max_length=50)
-    price = models.DecimalField(max_digits=6, decimal_places=2, default='0.00') # Consider using django-money.
+    price = models.DecimalField(max_digits=6, decimal_places=2, default='0.00')
     stock_qty = models.PositiveIntegerField(default=0)
     name = models.CharField(max_length=256, default='')
     active = models.PositiveIntegerField(choices=ACTIVE_CHOICES, default=1)
-    available =  models.BooleanField(default=False)
+    available = models.BooleanField(default=False)
     vintage = models.CharField(max_length=256, default='', blank=True)
     created = models.DateTimeField(max_length=256, default=datetime.now)
     size_value = models.CharField(max_length=256)
@@ -55,7 +55,7 @@ class ItemCategory(models.Model):
     cat_name = models.CharField(max_length=256)
 
     def __unicode__(self):
-        return u'%s' % (self.type_name)
+        return u'%s' % (self.cat_name)
 
 
 class ItemType(models.Model):
@@ -64,6 +64,7 @@ class ItemType(models.Model):
 
     def __unicode__(self):
         return u'%s' % (self.type_name)
+
 
 class ItemAdmin(admin.ModelAdmin):
     pass

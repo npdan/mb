@@ -1,42 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends "base.html" %}
 
-</body>
-</html>
+{% block content %}
+<div class="container">
 
-{% load static %}
-<!DOCTYPE html>
-<html lang="en" ng-app="angularProject">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+{# This could be done better with django crispy_forms.  #}
+    <form class="form-inline">
+       {% for field in form %}
+          <label for="{{ field.auto_id }}">{{ field.label }}</label>
+          {{ field }}
+       {% endfor %}
+       <button type="submit" class="btn btn-primary">Search</button>
+    </form>
 
-  <title></title>
+    <h2>Items</h2>
+    <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>SKU</th>
+            <th>UPC</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Name</th>
+            <th>Active</th>
+            <th>Available</th>
+            <th>Vintage</th>
+            <th>Created</th>
+            <th>Size</th>
+            <th>Category</th>
+            <th>Type</th>
+          </tr>
+        </thead>
+        <tbody>
+       {% for item in items %}
+       <tr onclick="window.location='{% url 'products:item-detail' pk=item.sku %}'">
+            <td>{{ item.sku }}</td>
+            <td>{{ item.upc }}</td>
+            <td class="align-right">${{ item.price }}</td>
+            <td>{{ item.stock_qty }}</td>
+            <td>{{ item.name }}</td>
+            <td>{{ item.active }}</td>
+            <td>{{ item.available }}</td>
+            <td>{{ item.vintage }}</td>
+            <td>{{ item.created|date:"m/d/Y" }}</td>
+            <td>{{ item.size_value }}</td>
+            <td>{{ item.cat }}</td>
+            <td>{{ item.type_num }}</td>
+       </tr>
+       {% endfor %}
+    </table>
+</div>
 
-  <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}"/>
-  <link rel="stylesheet" href="{% static 'css/bootstrap-theme.min.css' %}"/>
-  <link rel="stylesheet" href="{% static 'css/bootstrap-responsive.min.css' %}"/>
-  <link rel="stylesheet" href="{% static 'calendarview/css/calendar.css' %}"/>
-  <style type="text/css"></style>
-</head>
 
-<body>
-<form action="{{ action }}" method="GET">
-  <ul>
-    {{ form.as_ul }}
-  </ul>
-  <input type="submit" value="Search" />
-</form>
-  {% for item in items %}
-    {{ item.sku }}
-  {% endfor %}
-</body>
-
-<script src="{% static 'js/bootstrap.min.js' %}"></script>
-</html>
+{% endblock content %}

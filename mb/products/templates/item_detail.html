@@ -1,42 +1,82 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends "base.html" %}
 
-</body>
-</html>
+{% block content %}
+<div class="container">
+     <h3>Edit Item Sku {{ item.sku }}</h3>
+    <form id="itemform" class="form-horizontal" method="post">
+       {% csrf_token %}
+       {% for field in form %}
+        <div class="form-group">
+           <label class="col-md-3 control-label" for="{{ field.auto_id }}">{{ field.label }}</label>
+           <div class="col-md-6">
+               {{ field }}
+           </div>
+        </div>
+       {% endfor %}
+        <div class="form-group">
+            <div class="col-md-9 col-md-offset-3">
+                <div id="messages"></div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-9 col-md-offset-3">
+               <button type="submit" class="btn btn-primary">Update</button>
+            </div>
+        </div>
+    </form>
+</div>
+{% endblock content %}
 
-{% load static %}
-<!DOCTYPE html>
-<html lang="en" ng-app="angularProject">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+{% block head_js_page %}
+<script type="text/javascript">
 
-  <title></title>
-
-  <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}"/>
-  <link rel="stylesheet" href="{% static 'css/bootstrap-theme.min.css' %}"/>
-  <link rel="stylesheet" href="{% static 'css/bootstrap-responsive.min.css' %}"/>
-  <link rel="stylesheet" href="{% static 'calendarview/css/calendar.css' %}"/>
-  <style type="text/css"></style>
-</head>
-
-<body>
-<form action="{{ action }}" method="POST">
-  <ul>
-   {% csrf_token %}
-   {{ form.as_ul }}
-   </ul>
-  <input type="submit" value="Update" />
-</form>
-
-    {{ item.sku }}
-</body>
-
-<script src="{% static 'js/bootstrap.min.js' %}"></script>
-</html>
+$(document).ready(function() {
+    $('#itemform').bootstrapValidator({
+        container: '#messages',
+        feedbackIcons: {
+            valid: 'glyphicon glyphicon-ok',
+            invalid: 'glyphicon glyphicon-remove',
+            validating: 'glyphicon glyphicon-refresh'
+        },
+        fields: {
+             price: {
+                validators: {
+                    notEmpty: {
+                        message: 'The price is required and cannot be empty'
+                    },
+                    regexp: {
+                        regexp: /^(?:\d+\.?\d*|\d*\.\d+)$/,
+                        message: 'The price is an amount (11.20 or .20 )'
+                    }
+                }
+            },
+            name: {
+                validators: {
+                    notEmpty: {
+                        message: 'The item name is required and cannot be empty'
+                    },
+                    stringLength: {
+                        max: 100,
+                        message: 'The item name must be less than 100 characters long'
+                    }
+                }
+            },
+            stock: {
+                validators: {
+                    notEmpty: {
+                        message: 'The item name is required and cannot be empty'
+                    }
+                }
+            },
+            size: {
+                validators: {
+                    notEmpty: {
+                        message: 'The item name is required and cannot be empty'
+                    }
+                }
+            }
+        }
+    });
+});
+</script>
+{% endblock head_js_page %}
