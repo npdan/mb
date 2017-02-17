@@ -1,6 +1,8 @@
 from django.core.management.base import BaseCommand, CommandError
-from products.models import do_import
+
 import argparse
+
+from products.models import do_import
 
 
 class Command(BaseCommand):
@@ -10,7 +12,6 @@ class Command(BaseCommand):
         parser.add_argument("-f", type=argparse.FileType(), required=True)
 
     def handle(self, *args, **options):
-        print options['f'], dir(options['f'])
         self.stdout.write('Importing data from %s' % (options['f']))
         errors = do_import(options['f'])
         if errors:

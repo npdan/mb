@@ -3,11 +3,12 @@ from __future__ import unicode_literals
 import datetime
 from datetime import datetime
 from collections import OrderedDict
+from utils import FKXMLImporter
+
 from django.contrib import admin
 from django.db import models
 from django.core.urlresolvers import reverse
 
-from utils import FKXMLImporter
 from data_importer.importers import XMLImporter
 
 
@@ -19,12 +20,19 @@ ACTIVE_CHOICES = (
 
 
 class Item(models.Model):
+    """
+    I don't know much about the domain so I named it Item.
+    """
     sku = models.PositiveIntegerField(primary_key=True)
     upc = models.CharField(max_length=50)
     price = models.DecimalField(max_digits=6, decimal_places=2, default='0.00')
     stock_qty = models.PositiveIntegerField(default=0)
     name = models.CharField(max_length=256, default='')
+
+    # Active s the webstatus can be one of 1, 2 or 3
     active = models.PositiveIntegerField(choices=ACTIVE_CHOICES, default=1)
+
+    # available is true or false.
     available = models.BooleanField(default=False)
     vintage = models.CharField(max_length=256, default='', blank=True)
     created = models.DateTimeField(max_length=256, default=datetime.now)
@@ -51,6 +59,9 @@ class Item(models.Model):
 
 
 class ItemCategory(models.Model):
+    """
+    The Item category...
+    """
     category = models.PositiveIntegerField(primary_key=True)
     cat_name = models.CharField(max_length=256)
 
@@ -84,6 +95,10 @@ admin.site.register(ItemType, ItemTypeAdmin)
 
 
 class ItemXMLImporterModel(FKXMLImporter):
+    """
+    Does an xml import into Item model.
+    """
+
     fields = OrderedDict((
         ('sku', 0),
         ('upc', 1),
@@ -105,6 +120,9 @@ class ItemXMLImporterModel(FKXMLImporter):
 
 
 class ItemCategoryXMLImporterModel(XMLImporter):
+    """
+    Does an xml import into ItemCategory model.
+    """
     fields = OrderedDict((
         ('category', 10),
         ('cat_name', 11)
@@ -114,6 +132,9 @@ class ItemCategoryXMLImporterModel(XMLImporter):
         model = ItemCategory
 
 class ItemTypeXMLImporterModel(XMLImporter):
+    """
+    Does an xml import into ItemType model.
+    """
     fields = OrderedDict((
         ('type_num', 12),
         ('type_name', 13)
@@ -124,6 +145,14 @@ class ItemTypeXMLImporterModel(XMLImporter):
 
 
 def do_import(source):
+    """
+    Does an xml import into Item model and related models.
+    Could be made more fault tolerant, more logging,
+    XML parsing on xml field names not order...
+
+    :param source: a xml file objects.
+    :return if error returns a tuple of errors:
+    """
     errors = []
     categories = ItemCategoryXMLImporterModel(source=source.name)
     categories.save()

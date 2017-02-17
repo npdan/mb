@@ -1,11 +1,15 @@
 from django.db.models.fields import FieldDoesNotExist
-# from django.db import models
+from django.db import models
 from django.core.exceptions import ValidationError
 
 from data_importer.importers import XMLImporter
 
 
 class FKXMLImporter(XMLImporter):
+    """
+    Derived from data_import XMLImporter overrides clean_fileds to
+    clean foreign keys properly and use defualts when no value is given.
+    """
     def clean_field(self, field_name, value):
         """
         User default django field validators to clean content
@@ -25,8 +29,7 @@ class FKXMLImporter(XMLImporter):
 
     def clean_foreignkey_field(self, field, value):
         """
-        User default django field validators to clean content
-        and run custom validates
+        Cleans ForeignKet fields.
         """
         try:
             field.clean(value, None)
